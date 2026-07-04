@@ -138,3 +138,6 @@ dist
 # Added for deployment
 *.zip
 .env.*
+
+# Added for deployment
+build/
